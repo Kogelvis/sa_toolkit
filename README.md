@@ -20,6 +20,7 @@ A docker image based on blackarch with the following tooling installed:
 - python
 - seclists
 - sqlite
+- sqlmap
 
 # Installation
 

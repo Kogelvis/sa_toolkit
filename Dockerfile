@@ -9,7 +9,7 @@ RUN \
     pacman -S --noconfirm nmap masscan gnu-netcat python && \
     pacman -S --noconfirm metasploit hydra && \
     pacman -S --noconfirm p7zip john mitmproxy && \
-    pacman -S --noconfirm mariadb-clients sqlite
+    pacman -S --noconfirm mariadb-clients sqlite sqlmap
 
 ENV LANG=en_US.UTF-8
 CMD ["/usr/bin/bash"]
