@@ -4,6 +4,7 @@ A docker image based on blackarch with the following tooling installed:
 
 - amass
 - aquatone
+- exploitdb
 - ffuf
 - gnu-netcat
 - gobuster
@@ -14,13 +15,15 @@ A docker image based on blackarch with the following tooling installed:
 - masscan
 - metasploit
 - mitmproxy
-- nmap 
+- nmap
 - p7zip
 - patator
+- peass
 - python
 - seclists
 - sqlite
 - sqlmap
+- vim
 
 # Installation
 
